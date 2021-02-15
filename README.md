@@ -1,7 +1,13 @@
-### Hi there 👋
+## 👋 Java Developer
+
+- 🌱 I’m currently learning JAVA, SPRING.
+- 🙈 My Github : https://github.com/Junhan0037
+- 📫 My Resume : https://resume-git.netlify.app
+- ✏️ My CS Blog : https://www.notion.so/Computer-Science-915e104d730a4686af787aaf58291215
+- 🌎 Contact me : wnsgks0037@naver.com
 
 <!--
-**Evan0037/Evan0037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junhan0037/Junhan0037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
